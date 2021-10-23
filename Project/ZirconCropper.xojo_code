@@ -426,6 +426,12 @@ Inherits ArtisanKit.Control
 	#tag EndHook
 
 
+	#tag Note, Name = Version
+		ZirconCropper v2.0.0 October 22nd 2021
+		
+	#tag EndNote
+
+
 	#tag ComputedProperty, Flags = &h0
 		#tag Getter
 			Get
@@ -559,9 +565,6 @@ Inherits ArtisanKit.Control
 	#tag EndConstant
 
 	#tag Constant, Name = PaddingSize, Type = Double, Dynamic = False, Default = \"5", Scope = Private, Attributes = \"Hidden"
-	#tag EndConstant
-
-	#tag Constant, Name = Revision, Type = Double, Dynamic = False, Default = \"2", Scope = Public
 	#tag EndConstant
 
 	#tag Constant, Name = StateDraggingPic, Type = Double, Dynamic = False, Default = \"4", Scope = Private, Attributes = \"Hidden"
