@@ -1,0 +1,5 @@
+site_name: ZirconCropper
+pages:
+- Home: 'index.md'
+- Version History: 'history.md'
+theme: mkdocs
