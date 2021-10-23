@@ -3,8 +3,6 @@ ZirconCropper is a control that allows the user to zoom and crop an image.
 
 - Supports HiDPI, 64-bit, and dark mode.
 - Does not flicker on Windows.
-- Animated by default, can be turned off.
-- Automatically sizes itself based on caption, but allows setting a specific width instead.
 - No images required.
 
 ## Building Documentation
